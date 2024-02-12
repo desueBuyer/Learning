@@ -10,6 +10,8 @@ namespace Learning
     {
         static void Main(string[] args)
         {
+            DelegateClass dc = new DelegateClass();
+            Console.ReadKey();
         }
     }
 }
